@@ -7,3 +7,11 @@ class Ink:
         self.interests = ["Bot Development"]
         self.team = ["Muz"]
 ```
+## 🔏 Tech Stack
+```tech_stack = {
+    "languages": ["Python", "C++", "C"],
+    "frameworks": ["discord.py"],
+    "focus": ["Security", "Privacy", "Automation"],
+    "platforms": ["Windows", "Linux"]
+}
+```
