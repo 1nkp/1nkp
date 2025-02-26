@@ -7,3 +7,4 @@ class Ink:
         self.interests = ["Bot Development"]
         self.team = ["Pow", "Host", "Muz"]
 ```
+![Profile views](https://gpvc.arturio.dev/[1nkp])
