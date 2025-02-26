@@ -5,5 +5,5 @@ class Ink:
         self.name = "Ink"
         self.telegram = "@fentanyst"
         self.interests = ["Bot Development"]
-        self.team = ["Pow", "Host", "Muz"]
+        self.team = ["Muz"]
 ```
