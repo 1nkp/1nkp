@@ -8,10 +8,11 @@ class Ink:
         self.team = ["Muz"]
 ```
 ## 🔏 Tech Stack
-```tech_stack = {
-    "languages": ["Python", "C++", "C"],
+```
+tech_stack = {
+    "languages": ["Python", "C++", "C#"],
     "frameworks": ["discord.py"],
-    "focus": ["Security", "Privacy", "Automation"],
-    "platforms": ["Windows", "Linux"]
+    "focus": ["Security", "Privacy"]
+    "platforms": ["Windows"]
 }
 ```
